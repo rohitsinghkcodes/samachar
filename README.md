@@ -2,6 +2,13 @@
 
 <br>
 
+<p float="left">
+  <img src="https://raw.githubusercontent.com/rohitsinghkcodes/RESOURCES/master/samachar/samachar%20images/img1.jpeg" width="100" />
+  <img src="https://raw.githubusercontent.com/rohitsinghkcodes/RESOURCES/master/samachar/samachar%20images/img2.jpg" width="100" /> 
+  <img src="https://raw.githubusercontent.com/rohitsinghkcodes/RESOURCES/master/samachar/samachar%20images/img3.jpg" width="100" />
+</p>
+
+
 ## Why News Reading Is Important:
 
 * News can be used as an educational tool for youth.
