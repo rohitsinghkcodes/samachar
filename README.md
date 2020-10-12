@@ -34,7 +34,7 @@
  
  **samachar** is an application which will enhance your news reading experience.
 This applications contains the best and **top news** form multiple news sources, and by clicking on the desired news you will be redirected to to the official news article from where you can read the whole news in detail.
-The news in this applications in provided in a **categorized** manner which **enhances** the user experience.
+The news in this applications are provided in a **categorized** manner which **enhances** the user experience.
 
 <br>
  <img align="right" alt="samachar logo" src="https://github.com/rohitsinghkcodes/RESOURCES/blob/master/samachar/samachar_logo_4mb.png" width="500" height="500"/>
