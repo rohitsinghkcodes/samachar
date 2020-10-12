@@ -5,14 +5,14 @@
 ## Screenshots:
 
 <p float="left">
-  <img src="https://raw.githubusercontent.com/rohitsinghkcodes/RESOURCES/master/samachar/samachar%20images/img1.jpg" width="200" />
-  <img src="https://raw.githubusercontent.com/rohitsinghkcodes/RESOURCES/master/samachar/samachar%20images/img2.jpg" width="200" /> 
-  <img src="https://raw.githubusercontent.com/rohitsinghkcodes/RESOURCES/master/samachar/samachar%20images/img3.jpg" width="200" />
-  <img src="https://raw.githubusercontent.com/rohitsinghkcodes/RESOURCES/master/samachar/samachar%20images/img4.jpg" width="200" />
-  <img src="https://raw.githubusercontent.com/rohitsinghkcodes/RESOURCES/master/samachar/samachar%20images/img5.jpg" width="200" />
-  <img src="https://raw.githubusercontent.com/rohitsinghkcodes/RESOURCES/master/samachar/samachar%20images/img6.jpg" width="200" /> 
-  <img src="https://raw.githubusercontent.com/rohitsinghkcodes/RESOURCES/master/samachar/samachar%20images/img7.jpg" width="200" />
-  <img src="https://raw.githubusercontent.com/rohitsinghkcodes/RESOURCES/master/samachar/samachar%20images/img8.jpg" width="200" />
+  <img src="https://raw.githubusercontent.com/rohitsinghkcodes/RESOURCES/master/samachar/samachar%20images/img1.jpg" width="230" />
+  <img src="https://raw.githubusercontent.com/rohitsinghkcodes/RESOURCES/master/samachar/samachar%20images/img2.jpg" width="230" /> 
+  <img src="https://raw.githubusercontent.com/rohitsinghkcodes/RESOURCES/master/samachar/samachar%20images/img3.jpg" width="230" />
+  <img src="https://raw.githubusercontent.com/rohitsinghkcodes/RESOURCES/master/samachar/samachar%20images/img4.jpg" width="230" />
+  <img src="https://raw.githubusercontent.com/rohitsinghkcodes/RESOURCES/master/samachar/samachar%20images/img5.jpg" width="230" />
+  <img src="https://raw.githubusercontent.com/rohitsinghkcodes/RESOURCES/master/samachar/samachar%20images/img6.jpg" width="230" /> 
+  <img src="https://raw.githubusercontent.com/rohitsinghkcodes/RESOURCES/master/samachar/samachar%20images/img7.jpg" width="230" />
+  <img src="https://raw.githubusercontent.com/rohitsinghkcodes/RESOURCES/master/samachar/samachar%20images/img8.jpg" width="230" />
 </p>
 
 <br>
