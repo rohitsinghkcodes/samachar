@@ -79,7 +79,7 @@ class _AppInfoState extends State<AppInfo> {
                     child: Column(
                       children: [
                         Text(
-                          'samachar is an application which will enhance your news reading experience.',
+                          'Samachar is an application which will enhance your news reading experience.',
                           style: TextStyle(
                               fontSize: 24.0,
                               color: Colors.grey[500],
@@ -90,7 +90,7 @@ class _AppInfoState extends State<AppInfo> {
                           height: 10.0,
                         ),
                         Text(
-                          'This applications contains the best and top news form multiple news sources, and by clicking on the desired news you will be redirected to to the official news article from where you can read the whole news in detail.',
+                          'This application contains the best and top news form multiple news sources, and by clicking on the desired news you will be redirected to the official news article from where you can read the whole news in detail.',
                           style: TextStyle(
                               fontSize: 24.0,
                               color: Colors.grey[500],
@@ -101,7 +101,7 @@ class _AppInfoState extends State<AppInfo> {
                           height: 10.0,
                         ),
                         Text(
-                          'The news in this applications in provided in a categorized manner which enhances the user experience.',
+                          'The news in this application is provided in a categorized manner which enhances the user experience.',
                           style: TextStyle(
                               fontSize: 24.0,
                               color: Colors.grey[500],
