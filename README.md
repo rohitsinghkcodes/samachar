@@ -65,7 +65,7 @@ The news in this applications are provided in a **categorized** manner which **e
 ## Installation :arrow_down:
 You can install it in your **Android Device**  by the link given below: 
 
-[DOWNLOAD](https://github.com/rohitsinghkcodes/RESOURCES/raw/master/samachar/apk/samachar_1.2.0.apk)
+[DOWNLOAD](https://rohitsinghkcodes.github.io/samacharWeb.github.io/)
 
 <br>
 
