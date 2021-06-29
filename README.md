@@ -65,7 +65,7 @@ The news in this applications are provided in a **categorized** manner which **e
 ## Installation :arrow_down:
 You can install it in your **Android Device**  by the link given below: 
 
-[DOWNLOAD](https://rohitsinghkcodes.github.io/samacharWeb.github.io/)
+[DOWNLOAD](https://samacharapk.netlify.app/)
 
 <br>
 
@@ -78,7 +78,7 @@ You can install it in your **Android Device**  by the link given below:
 
 ## About the developer:
 
-I am [Rohit Kumar Singh](https://rohitsinghkcodes.github.io/portfolio/) and i am the developer of **samachar**.
+I am Rohit Kumar Singh and I am the developer of **samachar**.
 I have used **Dart** language with **flutter** framework for this project.  
 **I hope you all will love this application and find it useful.**  
 You can check my work on my [github](https://github.com/rohitsinghkcodes).
